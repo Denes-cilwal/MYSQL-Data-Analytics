@@ -1,0 +1,2 @@
+impreative vs declarative
+procedural vs on-procedural
